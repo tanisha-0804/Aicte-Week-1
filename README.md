@@ -1,2 +1,2 @@
-# Aicte-Week-1
+# Aicte-project
 Aicte garbage classification project
